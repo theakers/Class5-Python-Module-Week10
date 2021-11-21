@@ -19,7 +19,8 @@ Your tasks:
 
 Below is an example ERD. Try to come up with a similar end result. Good luck!
 
-![erd-sample](erd-sample.png)
+![erd-sample](erd-sample.png)![erd-sample](https://user-images.githubusercontent.com/48917695/142773370-8ad766a0-7282-49a2-8789-04095e8b45f5.png)
+
 
 ## 2. Import ERD 
 
